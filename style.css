@@ -1,0 +1,153 @@
+
+
+
+.oi1{
+    display:flex;
+    justify-content: space-between
+}
+.oi2{
+    display:flex;
+    justify-content:center
+}
+.oi3{
+    display:flex;
+    justify-content:space-between
+}
+.oi4{
+    display:flex;
+    justify-content: center
+    
+}
+.oi{
+    
+
+    background-color: #0faee4
+}
+.o2{
+    
+    background-color: #0faee4
+}
+.o3{
+    
+    background-color: #0faee4
+}
+.o4{
+    
+    background-color:  #0faee4
+}
+.o5{
+    
+    background-color: #0faee4
+}
+.o6{
+    
+    background-color: #0faee4
+    
+}
+.header{
+    display: flex;
+    background-color:#FFD700;
+    justify-content: center;
+    color: red;
+    text-align: center;
+    font-size: large;
+    text-align: center;
+}
+.links{
+    text-align: center;
+}
+.origami{
+    text-align: center;
+}
+.heado{
+    text-align: center;
+    margin:25px;
+}
+p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+.oi:hover p{
+    opacity: 1;
+}
+.o2:hover p{
+    opacity: 1;
+}
+.o3:hover p{
+    opacity: 1;
+}
+.o4:hover p{
+    opacity: 1;
+}
+.o5:hover p{
+    opacity: 1;
+}
+.o6:hover p{
+    opacity: 1;
+}
+.oi:hover img{
+    opacity:0.33;
+    
+}
+.o2:hover img{
+    opacity:0.33;
+    
+}
+.o3:hover img{
+    opacity:0.33;
+    
+}
+.o4:hover img{
+    opacity:0.33;
+    
+}
+.o5:hover img{
+    opacity:0.33;
+    
+}
+.o6:hover img{
+    opacity:0.33;
+    
+}
+.oi:hover{
+    transform: scale(1.2);
+}
+.o2:hover{
+    transform: scale(1.2);
+}
+.o3:hover{
+    transform: scale(1.2);
+}
+.o4:hover{
+    transform: scale(1.2);
+}
+.o5:hover{
+    transform: scale(1.2);
+}
+.o6:hover{
+    transform: scale(1.2);
+}
+.o1{
+    position: relative;
+}
+.o2{
+    position: relative;
+}
+.o3{
+    position: relative;
+}
+.o4{
+    position: relative;
+}
+.o5{
+    position: relative;
+}
+.o6{
+    position: relative;
+}
+a:visited{
+    color: azure;
+}
